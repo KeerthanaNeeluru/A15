@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A15\A15\bin\Debug\A15.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A15\A15\bin\Debug\A15.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A15\A15\bin\Debug\A15.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A15\A15\obj\Debug\A15.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A15\A15\obj\Debug\A15.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A15\A15\obj\Debug\A15.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A15\A15\obj\Debug\A15.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A15\A15\obj\Debug\A15.pdb

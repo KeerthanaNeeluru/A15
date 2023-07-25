@@ -1,0 +1,21 @@
+------------------------------------------
+Quick sort           Merge sort
+---------------------------------------
+Size 	Time	  Size	  Time 
+----------------------------------------------
+20	0.5199	   20	  0.4782
+30	0.4348	   30	  0.3973
+-----------------------------------------
+
+Merge Sort: It is well-suited for sorting large datasets and can be efficiently used in external sorting algorithms (e.g., for sorting data stored on disks).
+
+
+Merge Sort: It is a recursive algorithm that divides the array into smaller subarrays until the base case (single-element arrays) is reached and then merges them back together.
+
+
+
+
+
+Quick Sort: It is usually faster in practice for small to medium-sized arrays. Additionally, its in-place sorting nature makes it suitable for situations with limited memory.
+
+It is also a recursive algorithm that divides the array into subarrays but does not explicitly merge them. Instead, the sorting is done in-place during the partitioning process.
